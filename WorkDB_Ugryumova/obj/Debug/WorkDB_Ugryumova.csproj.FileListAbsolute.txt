@@ -1,0 +1,11 @@
+C:\Users\307-10\Documents\Угрюмова пр-21\WorkDB_Ugryumova\bin\Debug\WorkDB_Ugryumova.exe.config
+C:\Users\307-10\Documents\Угрюмова пр-21\WorkDB_Ugryumova\bin\Debug\WorkDB_Ugryumova.exe
+C:\Users\307-10\Documents\Угрюмова пр-21\WorkDB_Ugryumova\bin\Debug\WorkDB_Ugryumova.pdb
+C:\Users\307-10\Documents\Угрюмова пр-21\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.csproj.AssemblyReference.cache
+C:\Users\307-10\Documents\Угрюмова пр-21\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.csproj.SuggestedBindingRedirects.cache
+C:\Users\307-10\Documents\Угрюмова пр-21\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.Authorization_frm.resources
+C:\Users\307-10\Documents\Угрюмова пр-21\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.Properties.Resources.resources
+C:\Users\307-10\Documents\Угрюмова пр-21\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.csproj.GenerateResource.cache
+C:\Users\307-10\Documents\Угрюмова пр-21\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.csproj.CoreCompileInputs.cache
+C:\Users\307-10\Documents\Угрюмова пр-21\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.exe
+C:\Users\307-10\Documents\Угрюмова пр-21\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.pdb
